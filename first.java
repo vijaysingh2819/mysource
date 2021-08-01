@@ -18,8 +18,7 @@ public class first {
 	{
 		System.out.println(getdomain("https://en.wikipedia.org/wiki/Main_Page"));
 		System.out.println(getdomain("http://en.wikipedia.org/wiki/Main_Page"));
-		System.out.println(getdomain("helloworld.com/wiki/Main_Page"));
-		System.out.println(getdomain("hacker.challenge.org/wiki/Main_Page"));
+		
 		
 	}
 
